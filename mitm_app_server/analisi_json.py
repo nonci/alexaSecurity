@@ -1,3 +1,4 @@
+#! /bin/python3
 '''
 Questo script serve per analizzare i file generati da mitmdump quando è
 lanciato col plug-in API_show.py.
